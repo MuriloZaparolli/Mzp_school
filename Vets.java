@@ -4,7 +4,7 @@ import java.util.Scanner;
 // rm Main.class && javac Main.java && java Main < mzpp.txt
 // java Main < mzpp.txt
 
-public class Main {
+public class Vets {
     final static Scanner SC = new Scanner(System.in);
 
     static double maiorVet(double[] vet) {
